@@ -11,6 +11,7 @@ I will have another repository for Einstein-Discovery later. <br>
 It's exciting to study AI solutions with SF-Einstein! <br><br>
 Happy learning!<br>
 May the Salesforce be with you <3
+
 -----------
 Useful links:
 * Youtube channel: Let's play Salesforce
