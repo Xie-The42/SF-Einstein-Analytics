@@ -8,11 +8,9 @@ In this repository I will discuss Einstein-Analytics with useful notes during my
 
 
 I will have another repository for Einstein-Discovery later. 
-
 It's exciting to study AI solutions with SF-Einstein! <br>
-<3 <br>
-Xie <br>
-<br><br>
+Happy learning!<br>
+May the Salesforce be with you <3
 
 Useful links:
 * Youtube channel: Let's play Salesforce
